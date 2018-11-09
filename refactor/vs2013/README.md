@@ -26,4 +26,4 @@ Come prepared to have a friendly and fun conversation with other developers abou
 
 ## Something not clear?
 
-Feel free to contact [ctucker@daxko.com](mailto:ctucker@daxko.com?subject=Daxko+Interview+Project+Question) if you have any questions about this project.
+Feel free to contact [ctucker@daxko.com](mailto:ctucker@daxko.com?subject=Daxko Interview Project Question) if you have any questions about this project.
