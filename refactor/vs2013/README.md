@@ -21,7 +21,7 @@ Come prepared to have a friendly and fun conversation with other developers abou
 *   The OrderRepository is meant to be an abstraction over the database layer. There is no reason to setup a database and actually save data. We don't expect you to do that in this exercise unless you particularly want to show off something around data storage.
 *   There is no need to add functionality to make this project complete other than the user story you are tasked (for example, deleting items you add to your order). However, feel free to refactor anything that is within the project already to get it to what you would consider a "clean" state (NOTE: this isn't a requirement, but at least come prepared to discuss parts of the system you would have like to have refactored but was not a top priority).
 *   Feel free to use any tools or libraries that you see fit.
-*   Don't worry about supporting IE. (This is like your high school physics books saying "when solving this problem, disregard friction, assume the world is in a vacuum, and ignore reality" - we have to support IE to some degree in our business, but we can assume we live in a vacuum for this exercise and be lifted from the burden of IE for a while)
+*   Don't worry about supporting IE.
 *   Bonus points if you use React for satisfying the AJAX requirement in the user story (this is our preferred UI library for new features). Feel free to use another UI library if do not know React but know Vue, Angular, etc better.
 
 
