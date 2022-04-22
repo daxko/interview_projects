@@ -22,15 +22,15 @@ Come prepared to have a friendly and fun conversation with other developers abou
 *   There is no need to add functionality to make this project complete other than the user story you are tasked (for example, deleting items you add to your order). However, feel free to refactor anything that is within the project already to get it to what you would consider a "clean" state (NOTE: this isn't a requirement, but at least come prepared to discuss parts of the system you would have like to have refactored but was not a top priority).
 *   Feel free to use any tools or libraries that you see fit.
 *   Don't worry about supporting IE. (This is like your high school physics books saying "when solving this problem, disregard friction, assume the world is in a vacuum, and ignore reality" - we have to support IE to some degree in our business, but we can assume we live in a vacuum for this exercise and be lifted from the burden of IE for a while)
-*   Bonus points if you use a modern JavaScript UI framework other than vanilla jQuery for satisfying the AJAX requirement in the user story (examples: Vue, Angular, React, or some other flavor of the month). If you have never used any of these frameworks, then that's fine - use it as an opportunity to learn something new and discuss with us what you learned.  If you don't feel like adding another dependency adds value, that's cool too - be prepared to discuss the trade offs of pulling in a new UI framework dependency and when (if ever) that makes sense.
+*   Bonus points if you use React for satisfying the AJAX requirement in the user story (this is our preferred UI library for new features). Feel free to use another UI library if do not know React but know Vue, Angular, etc better.
 
 
 ## Interview Day
 
-* On the interview day, you will be given about 30 minutes to discuss your project with a team of engineers.  Please come prepared to walk through your code, give us a demo of the code, discuss your approach and what other changes you would have made to the project if you had more time.
-* Bring a laptop that can compile and run the code.
-* You will be presenting on a large TV or projector with an HDMI port as an input (we'll provide the cable).
-* If you do not have access to a laptop or a way of hooking up your laptop to an HDMI input, please let your recruiter or contact at Daxko know as early as possible so that we can make arrangements for your presentation.
+* You will be presenting from your computer and sharing your screen over Zoom.
+* You will be given about 30 minutes to discuss your project with a team of engineers.  Please come prepared to walk through your code, give us a demo of the code, discuss your approach and what other changes you would have made to the project if you had more time.
+
+
 
 ## Something not clear?
 
