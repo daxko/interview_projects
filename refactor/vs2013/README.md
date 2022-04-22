@@ -8,7 +8,7 @@ The purpose of this exercise is to evaluate a general knowlege of C#, ASP.NET MV
 
 ## Scenario
 
-You are tasked with adding some new functionality to an existing legacy application. This application was poorly coded, violates many of the SOLID principles, and has a lot of issues with maintainability. Feel free to refactor the code however you see fit as you add the new functionality and be prepared to discuss your changes with us.
+You are tasked with adding some new functionality to a fake legacy application. This fake application was poorly coded intentionally (for the sake of this interview project). It violates many of the SOLID principles and has a lot of issues with maintainability. Feel free to refactor the code however you see fit as you add the new functionality and be prepared to discuss your changes with us.
 
 ### User story: As someone who orders multiple products at the same time, I would like to be able to type in the quantity for each item then press the "Add to Order" button once and have the contents of my cart be refreshed without doing a full page reload (read: AJAX).
 
